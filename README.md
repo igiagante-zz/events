@@ -1,9 +1,8 @@
 
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile Conferences and Events 
 
-# <p style="text-align: center;"> Mobile Conferences and Events </p>
+### This document represents a compilation of conferences or events related to the software mobile engineering.
 
-Este documento representa una recopilación de conferencias o eventos relacionados al desarrollo de software de dispositivos móviles.
+<br><br>
 
-<center><img src ="https://github.com/igiagante/events/blob/master/images/swift_logo.png" alt="Apple Swift Logo"/></center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<center><img src ="https://github.com/igiagante/events/blob/master/images/android_logo.png" alt="Android Logo"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://github.com/igiagante/events/blob/master/images/swift_logo.png "Apple Swift Logo") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://github.com/igiagante/events/blob/master/images/android_logo.png "Android Logo")
